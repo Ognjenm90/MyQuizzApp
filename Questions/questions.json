@@ -1,0 +1,22 @@
+[{"category":"Entertainment: Books","type":"multiple","difficulty":"easy","question":"Who wrote &quot;Harry Potter&quot;?","correct_answer":"J.K. Rowling","incorrect_answers":["J.R.R. Tolkien","Terry Pratchett","Daniel Radcliffe"]},
+    
+    {"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"What French artist\/band is known for playing on the midi instrument &quot;Launchpad&quot;?","correct_answer":"Madeon","incorrect_answers":["Daft Punk ","Disclosure","David Guetta"]},
+    
+    {"category":"General Knowledge","type":"multiple","difficulty":"hard","question":"What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?","correct_answer":"Bulldog","incorrect_answers":["Yorkshire Terrier","Boxer","Pug"]},
+    
+    {"category":"Entertainment: Cartoon & Animations","type":"multiple","difficulty":"easy","question":"Which &#039;Family Guy&#039; character got his own spin-off show in 2009?","correct_answer":"Cleveland Brown","incorrect_answers":["Glenn Quagmire","Joe Swanson","The Greased-up Deaf Guy"]},
+    
+    {"category":"History","type":"multiple","difficulty":"medium","question":"America&#039;s Strategic Defense System during the Cold War was nicknamed after this famous movie.","correct_answer":"Star Wars","incorrect_answers":["Jaws","Blade Runner","Alien"]},
+    
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"easy","question":"Leonardo DiCaprio won an Oscar for Best Actor in 2004&#039;s &quot;The Aviator&quot;.","correct_answer":"False","incorrect_answers":["True"]},
+
+
+
+{"category":"Entertainment: Books",
+    "type":"multiple",
+    "difficulty":"medium",
+    "question":"What was the pen name of novelist, Mary Ann Evans?",
+    "correct_answer":"George Eliot",
+    "incorrect_answers":
+["George Orwell","George Bernard Shaw","George Saunders"]},]
+
